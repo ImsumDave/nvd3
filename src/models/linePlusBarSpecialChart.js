@@ -1,4 +1,4 @@
-nv.models.specialLinePlusBarChart = function() {
+nv.models.linePlusBarSpecialChart = function() {
     "use strict";
 
     //============================================================
